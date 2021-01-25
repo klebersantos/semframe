@@ -1,0 +1,30 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^9.4.2",
+    "graceful-fs": "^4.1.15",
+    "gulp-cli": "^2.0.1",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0",
+    "undertaker": "^1.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-notify": "*",
+    "gulp-uglify": "^3.0.1",
+    "popper.js": "^1.14.6",
+    "pump": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
